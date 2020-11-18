@@ -1,0 +1,73 @@
+body {
+    background-color: rgba(228, 215, 215, 0.938); 
+    margin: 0px;
+    border: 0px; 
+    padding: 0px; 
+}
+
+
+#main-header {
+    background-color: white;
+    width: 100%;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px; 
+    margin-bottom: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#main-header h1 {
+    
+    text-align: center;
+
+}
+
+.card {
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;  
+    margin-left: 30%;
+    margin-right: 30%; 
+    border-radius: 20px;
+   
+}
+
+.cardHeader {
+    margin: 0px; 
+}
+
+
+.cardHeader h2 {
+    float: left;
+    display: inline-block;
+    bottom: 10px;
+    padding-left: 10px;
+}
+
+.cardHeader p {
+    float: right;
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 10px;
+
+}
+
+.photo {
+    margin-top: 0px;
+}
+
+
+img {
+    width: 100%;    
+    
+}
+
+.cardFooter {
+    margin: 0em;
+}
+
+.cardFooter p {
+    padding: 10px; 
+}
